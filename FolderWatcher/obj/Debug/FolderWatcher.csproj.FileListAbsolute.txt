@@ -1,0 +1,11 @@
+C:\Users\001S\Desktop\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.csproj.AssemblyReference.cache
+C:\Users\001S\Desktop\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\001S\Desktop\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.Form1.resources
+C:\Users\001S\Desktop\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.Properties.Resources.resources
+C:\Users\001S\Desktop\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.csproj.GenerateResource.cache
+C:\Users\001S\Desktop\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.csproj.CoreCompileInputs.cache
+C:\Users\001S\Desktop\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe.config
+C:\Users\001S\Desktop\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+C:\Users\001S\Desktop\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.pdb
+C:\Users\001S\Desktop\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.exe
+C:\Users\001S\Desktop\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.pdb
